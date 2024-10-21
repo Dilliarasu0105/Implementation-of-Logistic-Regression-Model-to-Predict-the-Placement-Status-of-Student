@@ -10,15 +10,19 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Algorithm
 
 STEP 1:
+
 Import the required packages and print the present data.
 
 STEP 2:
+
 Find the null and duplicate values.
 
 STEP 3:
+
 Using logistic regression find the predicted values of accuracy , confusion matrices.
 
 STEP 4:
+
 Display the results.
 
 ## Program:
